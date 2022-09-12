@@ -1,5 +1,5 @@
 #!/bin/bash
-#script que realiza operações aritimeticas basicas
+#script que realiza operações aritimeticas basicas mudado
 re='^[0-9]+$'
 reO='^[+-/*]+$'
 
